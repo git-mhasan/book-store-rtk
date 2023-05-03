@@ -1,0 +1,58 @@
+{
+  "books": [
+    {
+      "name": "Slow Horses (Deluxe Edition)",
+      "author": "Mick Herron",
+      "thumbnail": "https://m.media-amazon.com/images/I/51Ga5GuElyL._SX331_BO1,204,203,200_.jpg",
+      "price": 14,
+      "rating": 3,
+      "featured": true,
+      "id": 1
+    },
+    {
+      "name": "The Last Thing He Told Me: A Novel",
+      "author": "Laura Dave",
+      "thumbnail": "https://m.media-amazon.com/images/P/1501171348.01._SCLZZZZZZZ_SX500_.jpg",
+      "price": 13.99,
+      "rating": 4,
+      "featured": true,
+      "id": 2
+    },
+    {
+      "name": "Eloquent JavaScript, 3rd Edition",
+      "author": "Marijn Haverbeke",
+      "thumbnail": "https://m.media-amazon.com/images/I/51InjRPaF7L._SX377_BO1,204,203,200_.jpg",
+      "price": 23.99,
+      "rating": 4,
+      "featured": false,
+      "id": 6
+    },
+    {
+      "name": "Lessons in Chemistry: A Novel",
+      "author": "Bonnie Garmus",
+      "thumbnail": "https://m.media-amazon.com/images/P/B098PW8NP8.01._SCLZZZZZZZ_SX500_.jpg",
+      "price": "29.26",
+      "rating": "4.6",
+      "featured": true,
+      "id": 10
+    },
+    {
+      "name": "La Brillante destinée d'Elizabeth Zott",
+      "author": "Gaillard-Paris",
+      "thumbnail": "https://m.media-amazon.com/images/P/B09YC88BM7.01._SCLZZZZZZZ_SX500_.jpg",
+      "price": "65.75",
+      "rating": "4",
+      "featured": false,
+      "id": 11
+    },
+    {
+      "name": "The Boy, the Mole, the Fox and the Horse: The Animated Story",
+      "author": "Charlie Mackesy",
+      "thumbnail": "https://m.media-amazon.com/images/I/41XYxS-WOVL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg",
+      "price": "32.99",
+      "rating": 5,
+      "featured": true,
+      "id": 12
+    }
+  ]
+}
